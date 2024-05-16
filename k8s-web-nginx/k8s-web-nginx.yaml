@@ -22,7 +22,7 @@ spec:
             memory: "128Mi"
             cpu: "250m"
         ports:
-        - containerPort: 3000
+        - containerPort: 3333
 
 
 --- 
